@@ -17,10 +17,10 @@ git clone https://github.com/aljachimiak/node-box
 Run  <code> vagrant up</code>   and watch your node-box get built.  The base box is Ubuntu 32 and the following packages get installed:
   - VIM
     - with js highlighting
-    - and line numbers
-  -node.js
+    - and line numbers!
+  - node.js
     - and npm
-    - and other dependencies node.js are installed
+    - plus other dependencies for node.js are installed
 
 ## Enter your node-box
 Just enter <code>vagrant ssh</code> in the directory and you will be greeted by the Ubuntu operating system.
